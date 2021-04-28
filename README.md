@@ -7,3 +7,4 @@
 ### Instructions: Download code and run a live server of the index.html. You'll be able to utilize this right away. 
 
 
+![](screenshot.png)
